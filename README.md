@@ -1,6 +1,5 @@
 # Crop-collector-bot-firmware
 
-# Crop Collector Bot (ESP32 Firmware)
 
 Firmware for an ESP32 crop collecting robot. It is driven manually from a phone over Bluetooth, and a front paddle/brush sweeps the crop in.
 
